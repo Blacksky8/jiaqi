@@ -18,7 +18,7 @@ router.beforeEach((to,form,next)=>{
     store.commit("wwtRouter",to.meta.title)
   }
 
-  next()
+  next() 
 })
 
 new Vue({

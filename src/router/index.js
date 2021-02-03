@@ -43,7 +43,7 @@ const routes = [
         meta:{
           title:'商品详情'
         }
-      }
+      } 
     ]
   }
 ]

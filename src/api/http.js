@@ -42,5 +42,5 @@ export function wwtStatus(data){
     url:`/manage/product/set_sale_status.do?productId=${data.id}&status=${data.status}`,
     method:'GET'
   })
-}
+} 
  
