@@ -8,7 +8,7 @@ export default {
   data() {
     return {};
   },
-  computed: {},
+  computed: {}, 
   watch: {},
   mounted() {
     console.log(this.$route)

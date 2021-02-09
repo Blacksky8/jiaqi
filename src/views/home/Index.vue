@@ -7,7 +7,7 @@
       </el-col>
       <el-col class="wwt-col" :span="6" style="background:#6BBE6B">
         <span>{{ list.productCount }}</span>
-        <span>商品总数</span>
+        <span>商品总数</span> 
       </el-col>
       <el-col class="wwt-col" :span="6" style="background:#5DB8D2">
         <span>{{ list.orderCount }}</span>

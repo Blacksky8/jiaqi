@@ -6,8 +6,8 @@
         <div class="header-right" @click="logout">
           欢迎,{{ $store.state.username }}
           <el-button type="text">退出</el-button>
-        </div>
-      </el-header>
+        </div> 
+      </el-header> 
       <el-container>
         <el-aside width="250px">
           <el-menu
